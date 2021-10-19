@@ -399,6 +399,10 @@ img {
   width: 100%;
 }
 
+.underline {
+  text-decoration: underline;
+}
+
 .verse {
   padding-left: 15%;
   font-style: italic;
