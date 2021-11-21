@@ -408,6 +408,18 @@ img {
   font-style: italic;
 }
 
+.org-center {
+  text-align:center;
+}
+
+.org-left {
+  text-align:left;
+}
+
+.org-right {
+  text-align:right;
+}
+
 @media only screen and (max-width: 768px) {
   ul {
     padding-left: .5em;
