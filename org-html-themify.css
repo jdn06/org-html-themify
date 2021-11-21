@@ -430,3 +430,10 @@ img {
     margin-left: 0;
   }
 }
+
+.NoBorderTable {
+  border: none;
+}
+.NoBorderTable td {
+  border: none;
+}
