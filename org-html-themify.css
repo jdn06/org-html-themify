@@ -437,3 +437,7 @@ img {
 .NoBorderTable td {
   border: none;
 }
+
+.Indent {
+  text-indent: 1em;
+}
